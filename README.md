@@ -7,7 +7,7 @@ I built this project as a hands-on learning experience to better understand imag
 
 #project structure
 
-
+```text
 chest-xray-pneumonia-prediction
 │
 ├── dataset
@@ -27,7 +27,7 @@ chest-xray-pneumonia-prediction
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
+```
 
 The repository includes '.gitkeep' files to preserve the folder structure on GitHub while keeping datasets and trained models out of the repository.
 
