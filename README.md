@@ -37,12 +37,12 @@ The repository includes '.gitkeep' files to preserve the folder structure on Git
 
 Before training, place the chest X-ray images into the appropriate folders:
 
-
+```text
 dataset/
 ├── train/
 ├── validation/
 └── test/
-
+```
 
 The model learns two classes:
 
