@@ -4,6 +4,8 @@ This project explores how Convolutional Neural Networks (CNNs) can be used to cl
 
 I built this project as a hands-on learning experience to better understand image preprocessing, CNN architecture, model training, evaluation, and image prediction using TensorFlow and Keras.
 
+You can see the all results step by step in results file.
+
 
 #project structure
 
